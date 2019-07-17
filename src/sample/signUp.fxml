@@ -17,7 +17,7 @@
                         <Font name="Arial" size="17.0" />
                     </font>
                 </PasswordField>
-                <Button fx:id="signUpButton" layoutX="312.0" layoutY="253.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="75.0" style="-fx-background-color: #2e3348;" text="Войти" textFill="#fafafa">
+                <Button fx:id="signUpButton" layoutX="275.0" layoutY="252.0" mnemonicParsing="false" prefHeight="30.0" prefWidth="150.0" style="-fx-background-color: #2e3348;" text="Зарегистрироваться" textFill="#fafafa">
                     <font>
                         <Font name="Comic Sans MS" size="13.0" />
                     </font>
